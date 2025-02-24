@@ -1,0 +1,17 @@
+{
+  "name": "eletroblocks-led",
+  "description": "Bloco LED do EletroBlocks",
+  "tags": ["led", "EletroBlocks"],
+  "pins": ["SINAL", "GND", "VCC"],
+  "defaultEditor": "arduino",
+  "graphics": {
+    "width": 50,
+    "height": 30,
+    "paths": [
+      {
+        "d": "M 10,5 L 40,5 L 40,25 L 10,25 Z",
+        "fill": "blue"
+      }
+    ]
+  }
+}
